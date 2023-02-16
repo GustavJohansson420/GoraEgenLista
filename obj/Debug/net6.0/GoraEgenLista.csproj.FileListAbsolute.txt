@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\bin\Debug\net6.0\GoraEgenLista.exe
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\bin\Debug\net6.0\GoraEgenLista.deps.json
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\bin\Debug\net6.0\GoraEgenLista.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\bin\Debug\net6.0\GoraEgenLista.dll
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\bin\Debug\net6.0\GoraEgenLista.pdb
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.dll
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\refint\GoraEgenLista.dll
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.pdb
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\GoraEgenLista.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\GoraEgenLista\obj\Debug\net6.0\ref\GoraEgenLista.dll
